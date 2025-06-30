@@ -35,3 +35,61 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python egg metadata
+*.egg-info/
+*.egg
+
+# Distribution / packaging
+build/
+dist/
+*.manifest
+*.spec
+
+# PyInstaller
+*.log
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+*.py,cover
+.cache
+nosetests.xml
+test-results/
+
+# MyPy, Pyre type checker
+.mypy_cache/
+.pyre/
+
+# Pyright
+typings/
+
+# Mac/Linux/Windows files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
