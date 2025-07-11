@@ -1,0 +1,362 @@
+{
+  "parser": "pypdf",
+  "total_pages": 6,
+  "transactions": [
+    {
+      "date": "01/22/2024",
+      "description": "Zelle Payment From Medical Instrument Supplier LLC 19647799818",
+      "amount": "1,695.24",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214282866",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/25/2024",
+      "description": "Zelle Payment From Tu Paquetico, Corp. 19669297548",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From F Y B Express LLC Bacir8Iikd0J",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214532280",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt215195119",
+      "amount": "2,400.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/31/2024",
+      "description": "Zelle Payment From Vidal Group Export Corp 19726671495",
+      "amount": "375.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso 19486155598",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Rush Enterprises LLC Jpm99A7I4Hxp",
+      "amount": "63.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "01/11 Online ACH Payment 11119767504 To Seaboard (_####3911)",
+      "amount": "6,500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Zelle Payment To Cesar Savinon Jpm99A7Til28",
+      "amount": "6,100.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/29/2024",
+      "description": "Zelle Payment To Erick Chacin Jpm99A8N304T",
+      "amount": "675.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment To Alfonso 19716869679",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Service Charges For The Month of December",
+      "amount": "110.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "$29,515.72 01/12",
+      "amount": "16,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "30,649.92 01/16",
+      "amount": "11,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "31,262.58 01/18",
+      "amount": "8,538.49",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "13,474.36 01/19",
+      "amount": "10,388.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "23,871.06 01/22",
+      "amount": "12,083.58",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "24,371.06 01/23",
+      "amount": "22,604.32",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/22/2024",
+      "description": "Zelle Payment From Medical Instrument Supplier LLC 19647799818",
+      "amount": "1,695.24",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214282866",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/25/2024",
+      "description": "Zelle Payment From Tu Paquetico, Corp. 19669297548",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From F Y B Express LLC Bacir8Iikd0J",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214532280",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt215195119",
+      "amount": "2,400.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/31/2024",
+      "description": "Zelle Payment From Vidal Group Export Corp 19726671495",
+      "amount": "375.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso 19486155598",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Rush Enterprises LLC Jpm99A7I4Hxp",
+      "amount": "63.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "01/11 Online ACH Payment 11119767504 To Seaboard (_####3911)",
+      "amount": "6,500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Zelle Payment To Cesar Savinon Jpm99A7Til28",
+      "amount": "6,100.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/29/2024",
+      "description": "Zelle Payment To Erick Chacin Jpm99A8N304T",
+      "amount": "675.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment To Alfonso 19716869679",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "$29,515.72 01/12",
+      "amount": "16,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "30,649.92 01/16",
+      "amount": "11,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "31,262.58 01/18",
+      "amount": "8,538.49",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "13,474.36 01/19",
+      "amount": "10,388.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "23,871.06 01/22",
+      "amount": "12,083.58",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "24,371.06 01/23",
+      "amount": "22,604.32",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/22/2024",
+      "description": "Zelle Payment From Medical Instrument Supplier LLC 19647799818",
+      "amount": "1,695.24",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214282866",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/25/2024",
+      "description": "Zelle Payment From Tu Paquetico, Corp. 19669297548",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From F Y B Express LLC Bacir8Iikd0J",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214532280",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt215195119",
+      "amount": "2,400.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/31/2024",
+      "description": "Zelle Payment From Vidal Group Export Corp 19726671495",
+      "amount": "375.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso 19486155598",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Rush Enterprises LLC Jpm99A7I4Hxp",
+      "amount": "63.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "01/11 Online ACH Payment 11119767504 To Seaboard (_####3911)",
+      "amount": "6,500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Zelle Payment To Cesar Savinon Jpm99A7Til28",
+      "amount": "6,100.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/29/2024",
+      "description": "Zelle Payment To Erick Chacin Jpm99A8N304T",
+      "amount": "675.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment To Alfonso 19716869679",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Service Charges For The Month of December",
+      "amount": "110.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "$29,515.72 01/12",
+      "amount": "16,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "30,649.92 01/16",
+      "amount": "11,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "31,262.58 01/18",
+      "amount": "8,538.49",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "13,474.36 01/19",
+      "amount": "10,388.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "23,871.06 01/22",
+      "amount": "12,083.58",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "24,371.06 01/23",
+      "amount": "22,604.32",
+      "transaction_type": "debit"
+    }
+  ],
+  "text_length": 13190,
+  "year_used": "2024"
+}

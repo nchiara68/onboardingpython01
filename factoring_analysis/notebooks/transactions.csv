@@ -1,0 +1,9 @@
+date,description,amount,type,reference
+01/03/2024,Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240103 CO Entry Descr:Payments Sec:CCD,1134.2,credit,0035044723Tc
+01/04/2024,"Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela",986.0,credit,0929211004Ff
+01/05/2024,"Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240105 CO Entry",6105.0,credit,0057380756Tc
+01/05/2024,Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry,500.0,credit,0053476596Tc
+01/09/2024,"Chips Credit Via: Bank of America, N.A./0959 B/O: 1/Formbar Limited",10346.94,credit,0621110009Fc
+01/02/2024,Online International Wire Transfer A/C: Foreign Cur Bus Acct,-12000.0,debit,7059600002Re
+01/04/2024,Zelle Payment To Alfonso,-200.0,debit,19486155598
+01/05/2024,Online International Wire Transfer A/C: Foreign Cur Bus Acct,-19174.5,debit,7344900005Re

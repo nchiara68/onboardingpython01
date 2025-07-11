@@ -1,0 +1,764 @@
+{
+  "parser": "pdfplumber",
+  "total_pages": 6,
+  "transactions": [
+    {
+      "date": "01/03/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240103 CO Entry",
+      "amount": "1,134.20",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela Ref:",
+      "amount": "986.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240105 CO Entry",
+      "amount": "6,105.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": "500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: 1/Formbar Limited 3/Gb/Ox11",
+      "amount": "10,346.94",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240109 CO Entry",
+      "amount": "49.76",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": "500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela Ref:",
+      "amount": "2,222.30",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: Sanael LLC Aventura, FL, 33160, US",
+      "amount": "1,740.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/12/2024",
+      "description": "Book Transfer Credit B/O: Banco Santander, Sa Boadilla Del Monte Spain 28660 Es",
+      "amount": "4,677.09",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/18/2024",
+      "description": "Chips Credit Via: Wells Fargo Bank, N.A./0509 B/O: Ecomaterials Inc. CA Ref: Nbnf=Tech",
+      "amount": "3,548.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/19/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240119 CO Entry",
+      "amount": "1,849.85",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/22/2024",
+      "description": "Zelle Payment From Medical Instrument Supplier LLC 19647799818",
+      "amount": "1,695.24",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/23/2024",
+      "description": "Orig CO Name:Pah Distributors Orig ID:S941687665 Desc Date:240123 CO Entry",
+      "amount": "10,520.74",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214282866",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/25/2024",
+      "description": "Zelle Payment From Tu Paquetico, Corp. 19669297548",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Real Time Transfer Recd From Aba/021000021 From: Global Orion LLC Ref:",
+      "amount": "12,771.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Fedwire Credit Via: First Horizon Bank/084000026 B/O: B M Miami Inc Miami,FL 33178",
+      "amount": "6,992.86",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From F Y B Express LLC Bacir8Iikd0J",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214532280",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240130 CO Entry",
+      "amount": "5,750.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt215195119",
+      "amount": "2,400.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/31/2024",
+      "description": "Zelle Payment From Vidal Group Export Corp 19726671495",
+      "amount": "375.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "01/02 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "12,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso 19486155598",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Rush Enterprises LLC Jpm99A7I4Hxp",
+      "amount": "63.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:United Healthcar Orig ID:1411289245 Desc Date: CO Entry Descr:EDI",
+      "amount": "5,218.72",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "01/05 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "19,174.50",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "01/11 Online ACH Payment 11119767504 To Seaboard (_####3911)",
+      "amount": "6,500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/12/2024",
+      "description": "01/12 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "3,676.97",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/16/2024",
+      "description": "Orig CO Name:Visa Orig ID:1465106539 Desc Date: CO Entry Descr:Payment",
+      "amount": "5,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/18/2024",
+      "description": "01/18 Online Domestic Wire Transfer Via: Bank of America, N.A./0959 A/C: First State Bk & Tr",
+      "amount": "6,742.99",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Orig CO Name:Cma-Cgm LLC Orig ID:1001570685 Desc Date: CO Entry",
+      "amount": "3,300.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/29/2024",
+      "description": "Zelle Payment To Erick Chacin Jpm99A8N304T",
+      "amount": "675.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment To Alfonso 19716869679",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "01/30 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "824.05",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Service Charges For The Month of December",
+      "amount": "110.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "$29,515.72 01/12",
+      "amount": "16,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "30,649.92 01/16",
+      "amount": "11,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "31,262.58 01/18",
+      "amount": "8,538.49",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "13,474.36 01/19",
+      "amount": "10,388.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "23,871.06 01/22",
+      "amount": "12,083.58",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "24,371.06 01/23",
+      "amount": "22,604.32",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela Ref:",
+      "amount": "986.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240105 CO Entry",
+      "amount": "6,105.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": "500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: 1/Formbar Limited 3/Gb/Ox11",
+      "amount": "10,346.94",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240109 CO Entry",
+      "amount": "49.76",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": "500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela Ref:",
+      "amount": "2,222.30",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: Sanael LLC Aventura, FL, 33160, US",
+      "amount": "1,740.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/12/2024",
+      "description": "Book Transfer Credit B/O: Banco Santander, Sa Boadilla Del Monte Spain 28660 Es",
+      "amount": "4,677.09",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/18/2024",
+      "description": "Chips Credit Via: Wells Fargo Bank, N.A./0509 B/O: Ecomaterials Inc. CA Ref: Nbnf=Tech",
+      "amount": "3,548.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/19/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240119 CO Entry",
+      "amount": "1,849.85",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/22/2024",
+      "description": "Zelle Payment From Medical Instrument Supplier LLC 19647799818",
+      "amount": "1,695.24",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/23/2024",
+      "description": "Orig CO Name:Pah Distributors Orig ID:S941687665 Desc Date:240123 CO Entry",
+      "amount": "10,520.74",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214282866",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/25/2024",
+      "description": "Zelle Payment From Tu Paquetico, Corp. 19669297548",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Real Time Transfer Recd From Aba/021000021 From: Global Orion LLC Ref:",
+      "amount": "12,771.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Fedwire Credit Via: First Horizon Bank/084000026 B/O: B M Miami Inc Miami,FL 33178",
+      "amount": "6,992.86",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From F Y B Express LLC Bacir8Iikd0J",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214532280",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240130 CO Entry",
+      "amount": "5,750.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt215195119",
+      "amount": "2,400.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/31/2024",
+      "description": "Zelle Payment From Vidal Group Export Corp 19726671495",
+      "amount": "375.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso 19486155598",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Rush Enterprises LLC Jpm99A7I4Hxp",
+      "amount": "63.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:United Healthcar Orig ID:1411289245 Desc Date: CO Entry Descr:EDI",
+      "amount": "5,218.72",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "01/05 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "19,174.50",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "01/11 Online ACH Payment 11119767504 To Seaboard (_####3911)",
+      "amount": "6,500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/12/2024",
+      "description": "01/12 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "3,676.97",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/16/2024",
+      "description": "Orig CO Name:Visa Orig ID:1465106539 Desc Date: CO Entry Descr:Payment",
+      "amount": "5,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/18/2024",
+      "description": "01/18 Online Domestic Wire Transfer Via: Bank of America, N.A./0959 A/C: First State Bk & Tr",
+      "amount": "6,742.99",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Orig CO Name:Cma-Cgm LLC Orig ID:1001570685 Desc Date: CO Entry",
+      "amount": "3,300.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/29/2024",
+      "description": "Zelle Payment To Erick Chacin Jpm99A8N304T",
+      "amount": "675.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment To Alfonso 19716869679",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "01/30 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "824.05",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "$29,515.72 01/12",
+      "amount": "16,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "30,649.92 01/16",
+      "amount": "11,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "31,262.58 01/18",
+      "amount": "8,538.49",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "13,474.36 01/19",
+      "amount": "10,388.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "23,871.06 01/22",
+      "amount": "12,083.58",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "24,371.06 01/23",
+      "amount": "22,604.32",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240103 CO Entry",
+      "amount": "1,134.20",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela Ref:",
+      "amount": "986.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240105 CO Entry",
+      "amount": "6,105.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": "500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: 1/Formbar Limited 3/Gb/Ox11",
+      "amount": "10,346.94",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240109 CO Entry",
+      "amount": "49.76",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": "500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela Ref:",
+      "amount": "2,222.30",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: Sanael LLC Aventura, FL, 33160, US",
+      "amount": "1,740.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/12/2024",
+      "description": "Book Transfer Credit B/O: Banco Santander, Sa Boadilla Del Monte Spain 28660 Es",
+      "amount": "4,677.09",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/18/2024",
+      "description": "Chips Credit Via: Wells Fargo Bank, N.A./0509 B/O: Ecomaterials Inc. CA Ref: Nbnf=Tech",
+      "amount": "3,548.00",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/19/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240119 CO Entry",
+      "amount": "1,849.85",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/22/2024",
+      "description": "Zelle Payment From Medical Instrument Supplier LLC 19647799818",
+      "amount": "1,695.24",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/23/2024",
+      "description": "Orig CO Name:Pah Distributors Orig ID:S941687665 Desc Date:240123 CO Entry",
+      "amount": "10,520.74",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214282866",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/25/2024",
+      "description": "Zelle Payment From Tu Paquetico, Corp. 19669297548",
+      "amount": "1,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Real Time Transfer Recd From Aba/021000021 From: Global Orion LLC Ref:",
+      "amount": "12,771.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Fedwire Credit Via: First Horizon Bank/084000026 B/O: B M Miami Inc Miami,FL 33178",
+      "amount": "6,992.86",
+      "transaction_type": "credit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From F Y B Express LLC Bacir8Iikd0J",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/26/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt214532280",
+      "amount": "2,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240130 CO Entry",
+      "amount": "5,750.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment From Global Cargo And Travel LLC Bbt215195119",
+      "amount": "2,400.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/31/2024",
+      "description": "Zelle Payment From Vidal Group Export Corp 19726671495",
+      "amount": "375.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "01/02 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "12,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso 19486155598",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Rush Enterprises LLC Jpm99A7I4Hxp",
+      "amount": "63.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:United Healthcar Orig ID:1411289245 Desc Date: CO Entry Descr:EDI",
+      "amount": "5,218.72",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "01/05 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "19,174.50",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/11/2024",
+      "description": "01/11 Online ACH Payment 11119767504 To Seaboard (_####3911)",
+      "amount": "6,500.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/12/2024",
+      "description": "01/12 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "3,676.97",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/16/2024",
+      "description": "Orig CO Name:Visa Orig ID:1465106539 Desc Date: CO Entry Descr:Payment",
+      "amount": "5,000.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/18/2024",
+      "description": "01/18 Online Domestic Wire Transfer Via: Bank of America, N.A./0959 A/C: First State Bk & Tr",
+      "amount": "6,742.99",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/24/2024",
+      "description": "Orig CO Name:Cma-Cgm LLC Orig ID:1001570685 Desc Date: CO Entry",
+      "amount": "3,300.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/29/2024",
+      "description": "Zelle Payment To Erick Chacin Jpm99A8N304T",
+      "amount": "675.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "Zelle Payment To Alfonso 19716869679",
+      "amount": "200.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/30/2024",
+      "description": "01/30 Online International Wire Transfer A/C: Foreign Cur Bus Acct Bk 1 Columbus Newark De",
+      "amount": "824.05",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Service Charges For The Month of December",
+      "amount": "110.00",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/02/2024",
+      "description": "$29,515.72 01/12",
+      "amount": "16,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/03/2024",
+      "description": "30,649.92 01/16",
+      "amount": "11,733.48",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "31,262.58 01/18",
+      "amount": "8,538.49",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "13,474.36 01/19",
+      "amount": "10,388.34",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "23,871.06 01/22",
+      "amount": "12,083.58",
+      "transaction_type": "debit"
+    },
+    {
+      "date": "01/10/2024",
+      "description": "24,371.06 01/23",
+      "amount": "22,604.32",
+      "transaction_type": "debit"
+    }
+  ],
+  "text_length": 12738,
+  "year_used": "2024"
+}

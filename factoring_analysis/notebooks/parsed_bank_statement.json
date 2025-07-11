@@ -1,0 +1,69 @@
+{
+  "account_info": {
+    "account_number": "000000792330778",
+    "account_holder": "TECH CARGO, LLC",
+    "statement_period": "December 30, 2023 through January 31, 2024",
+    "beginning_balance": 41515.72,
+    "ending_balance": 51894.13
+  },
+  "deposits_and_additions": [
+    {
+      "date": "01/03/2024",
+      "description": "Orig CO Name:Wepay Orig ID:5551232356 Desc Date:240103 CO Entry Descr:Payments Sec:CCD",
+      "amount": 1134.2,
+      "type": "credit",
+      "reference": "0035044723Tc"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Fedwire Credit Via: Amerant Bank, N.A./067010509 B/O: Dimassi, C.A. Venezuela",
+      "amount": 986.0,
+      "type": "credit",
+      "reference": "0929211004Ff"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Supricom, LLC Orig ID:S941687665 Desc Date:240105 CO Entry",
+      "amount": 6105.0,
+      "type": "credit",
+      "reference": "0057380756Tc"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Orig CO Name:Eurybia Logistic Orig ID:1462767612 Desc Date: CO Entry",
+      "amount": 500.0,
+      "type": "credit",
+      "reference": "0053476596Tc"
+    },
+    {
+      "date": "01/09/2024",
+      "description": "Chips Credit Via: Bank of America, N.A./0959 B/O: 1/Formbar Limited",
+      "amount": 10346.94,
+      "type": "credit",
+      "reference": "0621110009Fc"
+    }
+  ],
+  "withdrawals": [
+    {
+      "date": "01/02/2024",
+      "description": "Online International Wire Transfer A/C: Foreign Cur Bus Acct",
+      "amount": -12000.0,
+      "type": "debit",
+      "reference": "7059600002Re"
+    },
+    {
+      "date": "01/04/2024",
+      "description": "Zelle Payment To Alfonso",
+      "amount": -200.0,
+      "type": "debit",
+      "reference": "19486155598"
+    },
+    {
+      "date": "01/05/2024",
+      "description": "Online International Wire Transfer A/C: Foreign Cur Bus Acct",
+      "amount": -19174.5,
+      "type": "debit",
+      "reference": "7344900005Re"
+    }
+  ]
+}
